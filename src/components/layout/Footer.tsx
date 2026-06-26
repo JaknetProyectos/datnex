@@ -174,7 +174,7 @@ export function Footer() {
           </div>
 
           <p className="mt-8 text-center text-xs text-gray-600">
-            © {new Date().getFullYear()} EquipaTech. {t("copyright")}
+            © {new Date().getFullYear()} Datnex. {t("copyright")}
           </p>
         </div>
       </div>

@@ -85,8 +85,8 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: t("cards.email.title"),
-      value: "contacto@equipatech.com",
-      href: "mailto:contacto@equipatech.com",
+      value: "asistencia@datnex.com.mx",
+      href: "mailto:asistencia@datnex.com.mx",
     },
     {
       icon: MapPin,

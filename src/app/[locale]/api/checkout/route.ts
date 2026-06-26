@@ -5,8 +5,8 @@ const resend = new Resend(process.env.RESEND_API_KEY);
 
 const BRAND_NAME = "datnex.com.mx";
 const BRAND_URL = "https://datnex.com.mx";
-const SUPPORT_EMAIL = "contacto@novacode.mx";
-const BRAND_LOGO = "https://nexorithm.com.mx/title-dark.png";
+const SUPPORT_EMAIL = "asistencia@datnex.com.mx";
+const BRAND_LOGO = "https://datnex.com.mx/title.png";
 
 function formatCurrency(value: number) {
   return new Intl.NumberFormat("es-MX", {
