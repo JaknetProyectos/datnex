@@ -133,7 +133,8 @@ export default function ProductPage() {
                     alt={productName}
                     fill
                     className="
-                      object-cover
+                      object-contain
+                      rounded-3xl
                       transition-transform duration-700
                       group-hover:scale-110
                       drop-shadow-[0_0_25px_rgba(34,211,238,0.15)]
