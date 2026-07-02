@@ -146,3 +146,45 @@ body {
 ::selection {
   background: hsl(43 60% 52% / 0.3);
 }
+
+
+.table-modern {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(4px);
+}
+
+.table-modern thead {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.table-modern th,
+.table-modern td {
+  padding: 16px 20px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.table-modern th {
+  font-weight: 600;
+  border-right: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.table-modern td:first-child {
+  width: 260px;
+  border-right: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.table-modern tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.table-modern tbody tr:hover {
+  background: rgba(255, 255, 255, 0.04);
+  transition: background 0.2s ease;
+}

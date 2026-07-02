@@ -89,36 +89,36 @@ function LegalEs() {
 
           <ul>
             <li>
-              <strong>Denominación legal:</strong>
+              {" "}<strong>Denominación legal:</strong>{" "}
               CODEWAVE TECHNOLOGIES, S.A. DE C.V.
             </li>
 
             <li>
-              <strong>Marca comercial:</strong>
+              {" "}<strong>Marca comercial:</strong>{" "}
               DATNEX
             </li>
 
             <li>
-              <strong>Giro principal:</strong>
+              {" "}<strong>Giro principal:</strong>{" "}
               Venta de equipos de cómputo, accesorios y tecnología.
             </li>
 
             <li>
-              <strong>Canal digital:</strong>
-              <a
+              {" "}<strong>Canal digital:</strong>{" "}
+              {" "}<a
                 href="https://datnex.com.mx"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Datnex.com.mx
-              </a>
+              </a>{" "}
             </li>
 
             <li>
-              <strong>Contacto especializado:</strong>
-              <a href="mailto:asistencia@datnex.com.mx">
+              {" "}<strong>Contacto especializado:</strong>{" "}
+              {" "}<a href="mailto:asistencia@datnex.com.mx">
                 asistencia@datnex.com.mx
-              </a>
+              </a>{" "}
             </li>
           </ul>
 
@@ -134,19 +134,19 @@ function LegalEs() {
 
           <ul>
             <li>
-              <strong>Datos de compras:</strong>
+              {" "}<strong>Datos de compras:</strong>{" "}
               nombre, dirección de entrega, teléfono,
               correo electrónico, datos fiscales.
             </li>
 
             <li>
-              <strong>Datos de navegación:</strong>
+              {" "}<strong>Datos de navegación:</strong>{" "}
               páginas visitadas, carrito de compras,
               dispositivo y navegador utilizado, ubicación aproximada.
             </li>
 
             <li>
-              <strong>Datos de soporte:</strong>
+              {" "}<strong>Datos de soporte:</strong>{" "}
               descripción de problemas, modelo y número de serie del producto,
               fecha de compra, historial de consultas previas.
             </li>
@@ -157,25 +157,25 @@ function LegalEs() {
           <h2>III. ¿Para qué usamos su información?</h2>
 
           <p>
-            <strong>Proceso de compra:</strong>
+            {" "}<strong>Proceso de compra:</strong>{" "}
             validar pedidos, procesar pagos,
             coordinar envíos y dar seguimiento hasta la entrega.
           </p>
 
           <p>
-            <strong>Mejora de servicios:</strong>
+            {" "}<strong>Mejora de servicios:</strong>{" "}
             analizar productos más populares,
             optimizar navegación, personalizar ofertas y medir la satisfacción del cliente.
           </p>
 
           <p>
-            <strong>Comunicaciones obligatorias:</strong>
+            {" "}<strong>Comunicaciones obligatorias:</strong>{" "}
             confirmaciones, facturas,
             garantías y avisos de servicio.
           </p>
 
           <p>
-            <strong>Comunicaciones secundarias (con consentimiento):</strong>
+            {" "}<strong>Comunicaciones secundarias (con consentimiento):</strong>{" "}
             promociones, encuestas y prospección comercial.
           </p>
         </section>
@@ -185,22 +185,22 @@ function LegalEs() {
 
           <ul>
             <li>
-              <strong>Paquetería:</strong>
+              {" "}<strong>Paquetería:</strong>{" "}
               datos de entrega necesarios para envío.
             </li>
 
             <li>
-              <strong>Procesadores de pago:</strong>
+              {" "}<strong>Procesadores de pago:</strong>{" "}
               datos de transacción para cobros seguros.
             </li>
 
             <li>
-              <strong>Fabricantes/distribuidores:</strong>
+              {" "}<strong>Fabricantes/distribuidores:</strong>{" "}
               información técnica para soporte o garantías.
             </li>
 
             <li>
-              <strong>Autoridades:</strong>
+              {" "}<strong>Autoridades:</strong>{" "}
               únicamente cuando la ley lo requiera.
             </li>
           </ul>
@@ -218,22 +218,22 @@ function LegalEs() {
 
           <ul>
             <li>
-              <strong>Acceso:</strong>
+              {" "}<strong>Acceso:</strong>{" "}
               conocer qué datos tenemos y cómo los usamos.
             </li>
 
             <li>
-              <strong>Rectificación:</strong>
+              {" "}<strong>Rectificación:</strong>{" "}
               corregir información inexacta o desactualizada.
             </li>
 
             <li>
-              <strong>Cancelación:</strong>
+              {" "}<strong>Cancelación:</strong>{" "}
               eliminar datos no necesarios, salvo los exigidos por ley.
             </li>
 
             <li>
-              <strong>Oposición:</strong>
+              {" "}<strong>Oposición:</strong>{" "}
               limitar el uso de sus datos para fines comerciales o de análisis.
             </li>
           </ul>
@@ -242,9 +242,9 @@ function LegalEs() {
 
           <p>
             Envíe un correo a
-            <a href="mailto:asistencia@datnex.com.mx">
+            {" "}<a href="mailto:asistencia@datnex.com.mx">
               asistencia@datnex.com.mx
-            </a>
+            </a>{" "}
             con identificación oficial y descripción del derecho que desea ejercer.
             Tiempo de respuesta: máximo 20 días hábiles.
           </p>
@@ -255,19 +255,19 @@ function LegalEs() {
 
           <ul>
             <li>
-              <strong>Esenciales:</strong>
+              {" "}<strong>Esenciales:</strong>{" "}
               necesarias para carrito y sesión,
               se eliminan al cerrar navegador.
             </li>
 
             <li>
-              <strong>Rendimiento:</strong>
+              {" "}<strong>Rendimiento:</strong>{" "}
               miden velocidad y funcionamiento,
               vigencia hasta 12 meses.
             </li>
 
             <li>
-              <strong>Personalización:</strong>
+              {" "}<strong>Personalización:</strong>{" "}
               recuerdan preferencias y productos vistos,
               vigencia hasta 24 meses.
             </li>
@@ -284,32 +284,32 @@ function LegalEs() {
 
           <ul>
             <li>
-              <strong>Clientes activos:</strong>
+              {" "}<strong>Clientes activos:</strong>{" "}
               durante la relación comercial + 12 meses.
             </li>
 
             <li>
-              <strong>Transacciones fiscales:</strong>
+              {" "}<strong>Transacciones fiscales:</strong>{" "}
               5 años (según ley).
             </li>
 
             <li>
-              <strong>Datos de pago:</strong>
+              {" "}<strong>Datos de pago:</strong>{" "}
               eliminados al procesarse la transacción.
             </li>
 
             <li>
-              <strong>Soporte técnico:</strong>
+              {" "}<strong>Soporte técnico:</strong>{" "}
               2 años tras la resolución.
             </li>
 
             <li>
-              <strong>Navegación:</strong>
+              {" "}<strong>Navegación:</strong>{" "}
               hasta 12 meses.
             </li>
 
             <li>
-              <strong>Garantías:</strong>
+              {" "}<strong>Garantías:</strong>{" "}
               durante su vigencia + 6 meses.
             </li>
           </ul>
@@ -351,36 +351,36 @@ function LegalEs() {
 
           <ul>
             <li>
-              <strong>Correo electrónico:</strong>
-              <a href="mailto:asistencia@datnex.com.mx">
+              {" "}<strong>Correo electrónico:</strong>{" "}
+              {" "}<a href="mailto:asistencia@datnex.com.mx">
                 asistencia@datnex.com.mx
-              </a>
+              </a>{" "}
               (asunto: “Privacidad”).
             </li>
 
             <li>
-              <strong>Horario de atención:</strong>
+              {" "}<strong>Horario de atención:</strong>{" "}
               lunes a viernes, 9:00 – 18:00 hrs.
             </li>
 
             <li>
-              <strong>Tiempo de respuesta:</strong>
+              {" "}<strong>Tiempo de respuesta:</strong>{" "}
               máximo 48 horas.
             </li>
           </ul>
 
           <p>
-            <strong>Autoridad de control:</strong>
+            {" "}<strong>Autoridad de control:</strong>{" "}
             Instituto Nacional de Transparencia,
             Acceso a la Información y Protección de Datos Personales (INAI).
             Portal:
-            <a
+            {" "}<a
               href="https://www.inai.org.mx"
               target="_blank"
               rel="noopener noreferrer"
             >
               www.inai.org.mx
-            </a>
+            </a>{" "}
             | Teléfono: 55-5004-2400
           </p>
 
@@ -392,21 +392,21 @@ function LegalEs() {
         </section>
 
         <p>
-          <strong>Tienda en línea:</strong>
-          <a
+          {" "}<strong>Tienda en línea:</strong>{" "}
+          {" "}<a
             href="https://datnex.com.mx"
             target="_blank"
             rel="noopener noreferrer"
           >
             Datnex.com.mx
-          </a>
+          </a>{" "}
         </p>
 
         <p>
-          <strong>Soporte:</strong>
-          <a href="mailto:asistencia@datnex.com.mx">
+          {" "}<strong>Soporte:</strong>{" "}
+          {" "}<a href="mailto:asistencia@datnex.com.mx">
             asistencia@datnex.com.mx
-          </a>
+          </a>{" "}
         </p>
 
       </section>
@@ -499,36 +499,36 @@ function LegalEn() {
 
           <ul>
             <li>
-              <strong>Legal name:</strong>
+              {" "}<strong>Legal name:</strong>{" "}
               CODEWAVE TECHNOLOGIES, S.A. DE C.V.
             </li>
 
             <li>
-              <strong>Trade name:</strong>
+              {" "}<strong>Trade name:</strong>{" "}
               DATNEX
             </li>
 
             <li>
-              <strong>Main business activity:</strong>
+              {" "}<strong>Main business activity:</strong>{" "}
               Sale of computer equipment, accessories, and technology products.
             </li>
 
             <li>
-              <strong>Digital channel:</strong>
-              <a
+              {" "}<strong>Digital channel:</strong>{" "}
+              {" "}<a
                 href="https://datnex.com.mx"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Datnex.com.mx
-              </a>
+              </a>{" "}
             </li>
 
             <li>
-              <strong>Specialized contact:</strong>
-              <a href="mailto:asistencia@datnex.com.mx">
+              {" "}<strong>Specialized contact:</strong>{" "}
+              {" "}<a href="mailto:asistencia@datnex.com.mx">
                 asistencia@datnex.com.mx
-              </a>
+              </a>{" "}
             </li>
           </ul>
 
@@ -544,19 +544,19 @@ function LegalEn() {
 
           <ul>
             <li>
-              <strong>Purchase data:</strong>
+              {" "}<strong>Purchase data:</strong>{" "}
               name, delivery address, phone number,
               email address, and tax information.
             </li>
 
             <li>
-              <strong>Browsing data:</strong>
+              {" "}<strong>Browsing data:</strong>{" "}
               visited pages, shopping cart,
               device and browser used, and approximate location.
             </li>
 
             <li>
-              <strong>Support data:</strong>
+              {" "}<strong>Support data:</strong>{" "}
               problem descriptions, product model and serial number,
               purchase date, and previous inquiry history.
             </li>
@@ -567,25 +567,25 @@ function LegalEn() {
           <h2>III. What do we use your information for?</h2>
 
           <p>
-            <strong>Purchase process:</strong>
+            {" "}<strong>Purchase process:</strong>{" "}
             validate orders, process payments,
             coordinate shipments, and provide follow-up until delivery.
           </p>
 
           <p>
-            <strong>Service improvement:</strong>
+            {" "}<strong>Service improvement:</strong>{" "}
             analyze the most popular products,
             optimize navigation, personalize offers, and measure customer satisfaction.
           </p>
 
           <p>
-            <strong>Mandatory communications:</strong>
+            {" "}<strong>Mandatory communications:</strong>{" "}
             confirmations, invoices,
             warranties, and service notices.
           </p>
 
           <p>
-            <strong>Secondary communications (with consent):</strong>
+            {" "}<strong>Secondary communications (with consent):</strong>{" "}
             promotions, surveys, and commercial prospecting.
           </p>
         </section>
@@ -595,22 +595,22 @@ function LegalEn() {
 
           <ul>
             <li>
-              <strong>Shipping providers:</strong>
+              {" "}<strong>Shipping providers:</strong>{" "}
               delivery information necessary for shipping.
             </li>
 
             <li>
-              <strong>Payment processors:</strong>
+              {" "}<strong>Payment processors:</strong>{" "}
               transaction data for secure payments.
             </li>
 
             <li>
-              <strong>Manufacturers/distributors:</strong>
+              {" "}<strong>Manufacturers/distributors:</strong>{" "}
               technical information for support or warranties.
             </li>
 
             <li>
-              <strong>Authorities:</strong>
+              {" "}<strong>Authorities:</strong>{" "}
               only when required by law.
             </li>
           </ul>
@@ -629,22 +629,22 @@ function LegalEn() {
 
           <ul>
             <li>
-              <strong>Access:</strong>
+              {" "}<strong>Access:</strong>{" "}
               know what data we have and how we use it.
             </li>
 
             <li>
-              <strong>Rectification:</strong>
+              {" "}<strong>Rectification:</strong>{" "}
               correct inaccurate or outdated information.
             </li>
 
             <li>
-              <strong>Cancellation:</strong>
+              {" "}<strong>Cancellation:</strong>{" "}
               delete unnecessary data, except those required by law.
             </li>
 
             <li>
-              <strong>Opposition:</strong>
+              {" "}<strong>Opposition:</strong>{" "}
               limit the use of your data for commercial or analytical purposes.
             </li>
           </ul>
@@ -653,9 +653,9 @@ function LegalEn() {
 
           <p>
             Send an email to
-            <a href="mailto:asistencia@datnex.com.mx">
+            {" "}<a href="mailto:asistencia@datnex.com.mx">
               asistencia@datnex.com.mx
-            </a>
+            </a>{" "}
             with official identification and a description of the right you wish to exercise.
             Response time: maximum of 20 business days.
           </p>
@@ -666,19 +666,19 @@ function LegalEn() {
 
           <ul>
             <li>
-              <strong>Essential cookies:</strong>
+              {" "}<strong>Essential cookies:</strong>{" "}
               necessary for the shopping cart and session,
               deleted when the browser is closed.
             </li>
 
             <li>
-              <strong>Performance cookies:</strong>
+              {" "}<strong>Performance cookies:</strong>{" "}
               measure speed and functionality,
               valid for up to 12 months.
             </li>
 
             <li>
-              <strong>Personalization cookies:</strong>
+              {" "}<strong>Personalization cookies:</strong>{" "}
               remember preferences and viewed products,
               valid for up to 24 months.
             </li>
@@ -696,32 +696,32 @@ function LegalEn() {
 
           <ul>
             <li>
-              <strong>Active customers:</strong>
+              {" "}<strong>Active customers:</strong>{" "}
               during the commercial relationship + 12 months.
             </li>
 
             <li>
-              <strong>Tax transactions:</strong>
+              {" "}<strong>Tax transactions:</strong>{" "}
               5 years (according to law).
             </li>
 
             <li>
-              <strong>Payment data:</strong>
+              {" "}<strong>Payment data:</strong>{" "}
               deleted once the transaction is processed.
             </li>
 
             <li>
-              <strong>Technical support:</strong>
+              {" "}<strong>Technical support:</strong>{" "}
               2 years after resolution.
             </li>
 
             <li>
-              <strong>Browsing data:</strong>
+              {" "}<strong>Browsing data:</strong>{" "}
               up to 12 months.
             </li>
 
             <li>
-              <strong>Warranties:</strong>
+              {" "}<strong>Warranties:</strong>{" "}
               during their validity period + 6 months.
             </li>
           </ul>
@@ -765,36 +765,36 @@ function LegalEn() {
 
           <ul>
             <li>
-              <strong>Email:</strong>
-              <a href="mailto:asistencia@datnex.com.mx">
+              {" "}<strong>Email:</strong>{" "}
+              {" "}<a href="mailto:asistencia@datnex.com.mx">
                 asistencia@datnex.com.mx
-              </a>
+              </a>{" "}
               (subject: “Privacy”).
             </li>
 
             <li>
-              <strong>Business hours:</strong>
+              {" "}<strong>Business hours:</strong>{" "}
               Monday to Friday, 9:00 AM – 6:00 PM.
             </li>
 
             <li>
-              <strong>Response time:</strong>
+              {" "}<strong>Response time:</strong>{" "}
               maximum 48 hours.
             </li>
           </ul>
 
           <p>
-            <strong>Supervisory authority:</strong>
+            {" "}<strong>Supervisory authority:</strong>{" "}
             National Institute for Transparency,
             Access to Information and Protection of Personal Data (INAI).
             Website:
-            <a
+            {" "}<a
               href="https://www.inai.org.mx"
               target="_blank"
               rel="noopener noreferrer"
             >
               www.inai.org.mx
-            </a>
+            </a>{" "}
             | Phone: 55-5004-2400
           </p>
 
@@ -806,21 +806,21 @@ function LegalEn() {
         </section>
 
         <p>
-          <strong>Online store:</strong>
-          <a
+          {" "}<strong>Online store:</strong>{" "}
+          {" "}<a
             href="https://datnex.com.mx"
             target="_blank"
             rel="noopener noreferrer"
           >
             Datnex.com.mx
-          </a>
+          </a>{" "}
         </p>
 
         <p>
-          <strong>Support:</strong>
-          <a href="mailto:asistencia@datnex.com.mx">
+          {" "}<strong>Support:</strong>{" "}
+          {" "}<a href="mailto:asistencia@datnex.com.mx">
             asistencia@datnex.com.mx
-          </a>
+          </a>{" "}
         </p>
 
       </section>

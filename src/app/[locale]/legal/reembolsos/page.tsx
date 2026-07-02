@@ -85,16 +85,16 @@ function LegalEs() {
         <h1>Política de Devoluciones y Garantías</h1>
 
         <p>
-          <strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong><br />
+          {" "}<strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong>{" "}<br />
           Tienda Online:
-          <a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
+          {" "}<a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
             datnex.com.mx
-          </a>
+          </a>{" "}
           <br />
           Asistencia al Cliente:
-          <a href="mailto:asistencia@datnex.com.mx">
+          {" "}<a href="mailto:asistencia@datnex.com.mx">
             asistencia@datnex.com.mx
-          </a>
+          </a>{" "}
         </p>
 
         <section>
@@ -110,30 +110,30 @@ function LegalEs() {
 
           <p>
             Esta política aplica a productos adquiridos en
-            <a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
+            {" "}<a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
               datnex.com.mx
-            </a>,
+            </a>{" "},
             incluyendo:
           </p>
 
           <ol>
             <li>
-              <strong>Productos nuevos:</strong>
+              {" "}<strong>Productos nuevos:</strong>{" "}
               equipos de cómputo, componentes y accesorios en su empaque original sellado.
             </li>
 
             <li>
-              <strong>Productos reacondicionados:</strong>
+              {" "}<strong>Productos reacondicionados:</strong>{" "}
               restaurados y certificados por nuestro equipo técnico.
             </li>
 
             <li>
-              <strong>Accesorios y periféricos:</strong>
+              {" "}<strong>Accesorios y periféricos:</strong>{" "}
               dispositivos complementarios como teclados, monitores, impresoras o equipos de red.
             </li>
 
             <li>
-              <strong>Software en formato físico:</strong>
+              {" "}<strong>Software en formato físico:</strong>{" "}
               con sellos de seguridad intactos.
             </li>
           </ol>
@@ -162,22 +162,22 @@ function LegalEs() {
 
           <ol>
             <li>
-              <strong>Por insatisfacción:</strong>
+              {" "}<strong>Por insatisfacción:</strong>{" "}
               el cliente puede devolver el producto si no cumple sus expectativas, siempre que no presente uso y conserve su empaque original.
             </li>
 
             <li>
-              <strong>Por defecto de fábrica:</strong>
+              {" "}<strong>Por defecto de fábrica:</strong>{" "}
               en caso de fallas atribuibles al fabricante detectadas dentro del periodo de garantía.
             </li>
 
             <li>
-              <strong>Por error en el pedido:</strong>
+              {" "}<strong>Por error en el pedido:</strong>{" "}
               cuando el producto entregado no corresponda al solicitado.
             </li>
 
             <li>
-              <strong>Por daños en transporte:</strong>
+              {" "}<strong>Por daños en transporte:</strong>{" "}
               aplicable a productos dañados durante el envío, reportados al momento de la recepción.
             </li>
           </ol>
@@ -188,22 +188,22 @@ function LegalEs() {
 
           <ul>
             <li>
-              <strong>Equipos personalizados:</strong>
+              {" "}<strong>Equipos personalizados:</strong>{" "}
               configurados a medida del cliente, sujetos a condiciones específicas informadas en la cotización.
             </li>
 
             <li>
-              <strong>Licencias de software y productos digitales:</strong>
+              {" "}<strong>Licencias de software y productos digitales:</strong>{" "}
               no aplican devoluciones una vez activadas o descargadas, salvo defectos comprobables.
             </li>
 
             <li>
-              <strong>Componentes especializados o de alto valor:</strong>
+              {" "}<strong>Componentes especializados o de alto valor:</strong>{" "}
               pueden requerir autorización previa del fabricante.
             </li>
 
             <li>
-              <strong>Productos descontinuados:</strong>
+              {" "}<strong>Productos descontinuados:</strong>{" "}
               sujetos a políticas especiales según disponibilidad de reemplazo.
             </li>
           </ul>
@@ -317,26 +317,26 @@ function LegalEs() {
           <ul>
             <li>
               Correo electrónico:
-              <a href="mailto:asistencia@datnex.com.mx">
+              {" "}<a href="mailto:asistencia@datnex.com.mx">
                 asistencia@datnex.com.mx
-              </a>
+              </a>{" "}
             </li>
 
             <li>
               Sitio web:
-              <a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
+              {" "}<a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
                 datnex.com.mx
-              </a>
+              </a>{" "}
             </li>
           </ul>
         </section>
 
         <p>
-          <strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong>
+          {" "}<strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong>{" "}
         </p>
 
         <p>
-          <strong>Fecha de última actualización:</strong>
+          {" "}<strong>Fecha de última actualización:</strong>{" "}
           Septiembre 2025
         </p>
 
@@ -430,16 +430,16 @@ function LegalEn() {
         <h1>Returns and Warranty Policy</h1>
 
         <p>
-          <strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong><br />
+          {" "}<strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong>{" "}<br />
           Online Store:
-          <a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
+          {" "}<a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
             datnex.com.mx
-          </a>
+          </a>{" "}
           <br />
           Customer Support:
-          <a href="mailto:asistencia@datnex.com.mx">
+          {" "}<a href="mailto:asistencia@datnex.com.mx">
             asistencia@datnex.com.mx
-          </a>
+          </a>{" "}
         </p>
 
         <section>
@@ -455,30 +455,30 @@ function LegalEn() {
 
           <p>
             This policy applies to products purchased at
-            <a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
+            {" "}<a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
               datnex.com.mx
-            </a>,
+            </a>{" "},
             including:
           </p>
 
           <ol>
             <li>
-              <strong>New products:</strong>
+              {" "}<strong>New products:</strong>{" "}
               computer equipment, components, and accessories in their original sealed packaging.
             </li>
 
             <li>
-              <strong>Refurbished products:</strong>
+              {" "}<strong>Refurbished products:</strong>{" "}
               restored and certified by our technical team.
             </li>
 
             <li>
-              <strong>Accessories and peripherals:</strong>
+              {" "}<strong>Accessories and peripherals:</strong>{" "}
               complementary devices such as keyboards, monitors, printers, or networking equipment.
             </li>
 
             <li>
-              <strong>Software in physical format:</strong>
+              {" "}<strong>Software in physical format:</strong>{" "}
               with intact security seals.
             </li>
           </ol>
@@ -507,22 +507,22 @@ function LegalEn() {
 
           <ol>
             <li>
-              <strong>Due to dissatisfaction:</strong>
+              {" "}<strong>Due to dissatisfaction:</strong>{" "}
               the customer may return the product if it does not meet expectations, provided it has not been used and retains its original packaging.
             </li>
 
             <li>
-              <strong>Factory defect:</strong>
+              {" "}<strong>Factory defect:</strong>{" "}
               in the event of manufacturer-attributable failures detected within the warranty period.
             </li>
 
             <li>
-              <strong>Order error:</strong>
+              {" "}<strong>Order error:</strong>{" "}
               when the delivered product does not match the one requested.
             </li>
 
             <li>
-              <strong>Shipping damage:</strong>
+              {" "}<strong>Shipping damage:</strong>{" "}
               applicable to products damaged during shipping and reported upon receipt.
             </li>
           </ol>
@@ -533,22 +533,22 @@ function LegalEn() {
 
           <ul>
             <li>
-              <strong>Customized equipment:</strong>
+              {" "}<strong>Customized equipment:</strong>{" "}
               configured according to the customer’s specifications, subject to specific conditions informed in the quotation.
             </li>
 
             <li>
-              <strong>Software licenses and digital products:</strong>
+              {" "}<strong>Software licenses and digital products:</strong>{" "}
               returns do not apply once activated or downloaded, except for verifiable defects.
             </li>
 
             <li>
-              <strong>Specialized or high-value components:</strong>
+              {" "}<strong>Specialized or high-value components:</strong>{" "}
               may require prior manufacturer authorization.
             </li>
 
             <li>
-              <strong>Discontinued products:</strong>
+              {" "}<strong>Discontinued products:</strong>{" "}
               subject to special policies depending on replacement availability.
             </li>
           </ul>
@@ -662,26 +662,26 @@ function LegalEn() {
           <ul>
             <li>
               Email:
-              <a href="mailto:asistencia@datnex.com.mx">
+              {" "}<a href="mailto:asistencia@datnex.com.mx">
                 asistencia@datnex.com.mx
-              </a>
+              </a>{" "}
             </li>
 
             <li>
               Website:
-              <a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
+              {" "}<a href="https://datnex.com.mx" target="_blank" rel="noopener noreferrer">
                 datnex.com.mx
-              </a>
+              </a>{" "}
             </li>
           </ul>
         </section>
 
         <p>
-          <strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong>
+          {" "}<strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong>{" "}
         </p>
 
         <p>
-          <strong>Last updated:</strong>
+          {" "}<strong>Last updated:</strong>{" "}
           September 2025
         </p>
 

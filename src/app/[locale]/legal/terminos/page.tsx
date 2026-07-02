@@ -88,7 +88,7 @@ function LegalEs() {
 
         <h2>INFORMACIÓN CORPORATIVA</h2>
 
-        <table>
+        <table className="table-modern">
           <thead>
             <tr>
               <th>Campo</th>
@@ -111,9 +111,9 @@ function LegalEs() {
             <tr>
               <td>Contacto Principal</td>
               <td>
-                <a href="mailto:asistencia@datnex.com.mx">
+                {" "}<a href="mailto:asistencia@datnex.com.mx">
                   asistencia@datnex.com.mx
-                </a>
+                </a>{" "}
               </td>
             </tr>
             <tr>
@@ -156,22 +156,22 @@ function LegalEs() {
 
           <ol>
             <li>
-              <strong>Equipos de cómputo:</strong>
+              {" "}<strong>Equipos de cómputo:</strong>{" "}
               computadoras de escritorio, laptops, notebooks, tablets, servidores y workstations.
             </li>
 
             <li>
-              <strong>Periféricos:</strong>
+              {" "}<strong>Periféricos:</strong>{" "}
               impresoras, multifuncionales, monitores, dispositivos de entrada y sistemas de audio.
             </li>
 
             <li>
-              <strong>Componentes:</strong>
+              {" "}<strong>Componentes:</strong>{" "}
               procesadores, tarjetas madre, memoria RAM, almacenamiento, tarjetas gráficas, fuentes de poder y gabinetes.
             </li>
 
             <li>
-              <strong>Conectividad y redes:</strong>
+              {" "}<strong>Conectividad y redes:</strong>{" "}
               equipos de red, cables, adaptadores y dispositivos de comunicación.
             </li>
           </ol>
@@ -188,32 +188,32 @@ function LegalEs() {
 
           <ol>
             <li>
-              <strong>Consulta:</strong>
+              {" "}<strong>Consulta:</strong>{" "}
               el cliente revisa el catálogo en línea.
             </li>
 
             <li>
-              <strong>Cotización:</strong>
+              {" "}<strong>Cotización:</strong>{" "}
               se solicita precios y disponibilidad.
             </li>
 
             <li>
-              <strong>Confirmación:</strong>
+              {" "}<strong>Confirmación:</strong>{" "}
               el cliente acepta los Términos y Condiciones.
             </li>
 
             <li>
-              <strong>Pago:</strong>
+              {" "}<strong>Pago:</strong>{" "}
               se realiza el pago en la tienda.
             </li>
 
             <li>
-              <strong>Procesamiento:</strong>
+              {" "}<strong>Procesamiento:</strong>{" "}
               DATNEX valida la orden y prepara el pedido.
             </li>
 
             <li>
-              <strong>Entrega:</strong>
+              {" "}<strong>Entrega:</strong>{" "}
               se coordina el envío o entrega al cliente, el cual debe realizar el pago en tienda del envío predeterminado e informado vía correo.
             </li>
           </ol>
@@ -274,9 +274,9 @@ function LegalEs() {
 
           <p>
             El cliente podrá ejercer sus derechos ARCO (Acceso, Rectificación, Cancelación y Oposición) enviando un correo a
-            <a href="mailto:asistencia@datnex.com.mx">
+            {" "}<a href="mailto:asistencia@datnex.com.mx">
               asistencia@datnex.com.mx
-            </a>.
+            </a>{" "}.
           </p>
         </section>
 
@@ -344,9 +344,9 @@ function LegalEs() {
           <ul>
             <li>
               Correo:
-              <a href="mailto:asistencia@datnex.com.mx">
+              {" "}<a href="mailto:asistencia@datnex.com.mx">
                 asistencia@datnex.com.mx
-              </a>
+              </a>{" "}
             </li>
 
             <li>Sitio web: Datnex.com.mx</li>
@@ -385,7 +385,7 @@ function LegalEs() {
         </section>
 
         <p>
-          <strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong>
+          {" "}<strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong>{" "}
           Todos los derechos reservados.
         </p>
 
@@ -478,7 +478,7 @@ function LegalEn() {
 
         <h2>CORPORATE INFORMATION</h2>
 
-        <table>
+        <table className="table-modern">
           <thead>
             <tr>
               <th>Field</th>
@@ -501,9 +501,9 @@ function LegalEn() {
             <tr>
               <td>Main Contact</td>
               <td>
-                <a href="mailto:asistencia@datnex.com.mx">
+                {" "}<a href="mailto:asistencia@datnex.com.mx">
                   asistencia@datnex.com.mx
-                </a>
+                </a>{" "}
               </td>
             </tr>
             <tr>
@@ -546,22 +546,22 @@ function LegalEn() {
 
           <ol>
             <li>
-              <strong>Computer Equipment:</strong>
+              {" "}<strong>Computer Equipment:</strong>{" "}
               desktop computers, laptops, notebooks, tablets, servers, and workstations.
             </li>
 
             <li>
-              <strong>Peripherals:</strong>
+              {" "}<strong>Peripherals:</strong>{" "}
               printers, multifunction devices, monitors, input devices, and audio systems.
             </li>
 
             <li>
-              <strong>Components:</strong>
+              {" "}<strong>Components:</strong>{" "}
               processors, motherboards, RAM memory, storage devices, graphics cards, power supplies, and computer cases.
             </li>
 
             <li>
-              <strong>Connectivity and Networking:</strong>
+              {" "}<strong>Connectivity and Networking:</strong>{" "}
               networking equipment, cables, adapters, and communication devices.
             </li>
           </ol>
@@ -578,32 +578,32 @@ function LegalEn() {
 
           <ol>
             <li>
-              <strong>Inquiry:</strong>
+              {" "}<strong>Inquiry:</strong>{" "}
               the customer reviews the online catalog.
             </li>
 
             <li>
-              <strong>Quotation:</strong>
+              {" "}<strong>Quotation:</strong>{" "}
               prices and availability are requested.
             </li>
 
             <li>
-              <strong>Confirmation:</strong>
+              {" "}<strong>Confirmation:</strong>{" "}
               the customer accepts the Terms and Conditions.
             </li>
 
             <li>
-              <strong>Payment:</strong>
+              {" "}<strong>Payment:</strong>{" "}
               payment is made in-store.
             </li>
 
             <li>
-              <strong>Processing:</strong>
+              {" "}<strong>Processing:</strong>{" "}
               DATNEX validates the order and prepares the shipment.
             </li>
 
             <li>
-              <strong>Delivery:</strong>
+              {" "}<strong>Delivery:</strong>{" "}
               shipment or delivery to the customer is coordinated, and the customer must pay in-store for the default shipping method communicated via email.
             </li>
           </ol>
@@ -664,9 +664,9 @@ function LegalEn() {
 
           <p>
             Customers may exercise their ARCO rights (Access, Rectification, Cancellation, and Opposition) by sending an email to
-            <a href="mailto:asistencia@datnex.com.mx">
+            {" "}<a href="mailto:asistencia@datnex.com.mx">
               asistencia@datnex.com.mx
-            </a>.
+            </a>{" "}.
           </p>
         </section>
 
@@ -734,9 +734,9 @@ function LegalEn() {
           <ul>
             <li>
               Email:
-              <a href="mailto:asistencia@datnex.com.mx">
+              {" "}<a href="mailto:asistencia@datnex.com.mx">
                 asistencia@datnex.com.mx
-              </a>
+              </a>{" "}
             </li>
 
             <li>Website: Datnex.com.mx</li>
@@ -775,7 +775,7 @@ function LegalEn() {
         </section>
 
         <p>
-          <strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong>
+          {" "}<strong>CODEWAVE TECHNOLOGIES S.A. DE C.V.</strong>{" "}
           All rights reserved.
         </p>
 
