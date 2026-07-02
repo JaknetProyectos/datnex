@@ -215,8 +215,8 @@
     },
     "legal": {
       "privacy": "Aviso de Privacidad",
-      "terms": "Términos de Venta",
-      "returns": "Devoluciones y Garantías"
+      "terms": "Términos de Venta y Condiciones Comerciales",
+      "returns": "Política de Devoluciones y Garantías"
     }
   },
   "categoryPage": {
@@ -286,7 +286,7 @@
         },
         "phone": {
           "label": "Teléfono",
-          "placeholder": "55 1234 5678"
+          "placeholder": "+ 52 1 55 5359 9895"
         },
         "message": {
           "label": "Mensaje",
@@ -302,5 +302,9 @@
         "defaultMessage": "Ocurrió un error al enviar el mensaje"
       }
     }
+  },
+  "ProductCard" : {
+    "tax": "+ IVA",
+    "price" : "Precio"
   }
 }

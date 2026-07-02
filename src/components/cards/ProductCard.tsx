@@ -5,7 +5,7 @@ import { Eye, ShoppingCart } from "lucide-react";
 
 import type { Product } from "@/types";
 import { cn } from "@/lib/utils";
-import { useLocale } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { formatPrice } from "@/lib/price";
 
 interface ProductCardProps {
@@ -19,6 +19,7 @@ export function ProductCard({
   onAddToCart,
 }: ProductCardProps) {
   const locale = useLocale()
+  const t = useTranslations("ProductCard")
 
 
   return (
@@ -73,7 +74,7 @@ export function ProductCard({
         <div className="mt-auto flex items-end justify-between gap-3 pt-4">
           <div className="flex flex-col">
             <span className="text-[10px] uppercase tracking-[0.2em] text-gray-500">
-              Precio
+              {t("price")}
             </span>
 
             <div className="flex items-end gap-1">
@@ -82,7 +83,7 @@ export function ProductCard({
               </span>
 
               <span className="mb-1 text-xs text-cyan-300">
-                MXN
+                MXN {t("tax")}
               </span>
             </div>
           </div>

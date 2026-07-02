@@ -215,8 +215,8 @@
     },
     "legal": {
       "privacy": "Privacy Notice",
-      "terms": "Terms of Sale",
-      "returns": "Returns & Warranty"
+      "terms": "Terms of Sale and Commercial Conditions",
+      "returns": "Returns and Warranty Policy"
     }
   },
   "categoryPage": {
@@ -286,7 +286,7 @@
         },
         "phone": {
           "label": "Phone",
-          "placeholder": "55 1234 5678"
+          "placeholder": "+ 52 1 55 5359 9895"
         },
         "message": {
           "label": "Message",
@@ -302,5 +302,9 @@
         "defaultMessage": "An error occurred while sending the message"
       }
     }
+  },
+  "ProductCard": {
+    "tax": "+ VAT",
+    "price": "Price"
   }
 }

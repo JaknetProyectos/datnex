@@ -79,7 +79,7 @@ export default function ContactPage() {
     {
       icon: Phone,
       title: t("cards.phone.title"),
-      value: "521 55 5359 9895",
+      value: "+ 52 1 55 5359 9895",
       href: "tel:5215553599895",
     },
     {

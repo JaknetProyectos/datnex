@@ -106,7 +106,7 @@ export function Header() {
                   className="flex items-center gap-2 transition hover:text-cyan-300"
                 >
                   <Phone className="h-3.5 w-3.5 text-cyan-400" />
-                  <span>521 55 5359 9895</span>
+                  <span>+ 52 1 55 5359 9895</span>
                 </a>
 
                 <div className="flex items-center gap-2 text-gray-400">
