@@ -37,7 +37,7 @@
     },
     "actions": {
       "proceedToPayment": "Continue to Payment Form",
-      "processing": "Checking Funds through Octano...",
+      "processing": "Checking Funds through Etomin...",
       "payAmount": "Authorize {amount}",
       "backToCart": "Edit my order / Modify coupon"
     },
@@ -83,7 +83,7 @@
       "note": "Secured Transaction"
     },
     "images": {
-      "etominAlt": "Octano",
+      "etominAlt": "Etomin",
       "securePaymentAlt": "Safe transaction"
     }
   },
@@ -306,5 +306,18 @@
   "ProductCard": {
     "tax": "+ VAT",
     "price": "Price"
+  },
+  "store": {
+    "title": "Product",
+    "titleAccent": "Catalog",
+    "description": "Explore high-performance technological solutions. Integrated intelligent filtering.",
+    "searchPlaceholder": "Search by product name...",
+    "allCategories": "All Categories",
+    "resultSingular": "PRODUCT FOUND",
+    "resultPlural": "PRODUCTS FOUND",
+    "noResultsTitle": "No results found",
+    "noResultsDescription": "There are no products that match your current search or filter criteria. Try resetting the fields or using a different term.",
+    "loading": "Loading catalog...",
+    "error": "An error occurred while loading the product catalog."
   }
 }

@@ -28,7 +28,7 @@ import { useCart } from "@/context/CartContext";
 import { Button } from "@/components/ui/button";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
-import { processOctanoPayment } from "@/lib/payment";
+import { processEtominPayment } from "@/lib/payment";
 import { formatPrice } from "@/lib/price";
 
 const VALID_COUPONS = [
@@ -238,7 +238,7 @@ export default function CarritoCheckoutPage() {
     };
 
     try {
-      const response = await processOctanoPayment(paymentPayload);
+      const response = await processEtominPayment(paymentPayload);
 
       if (response.success) {
         setSuccessData(response.data);
@@ -518,7 +518,7 @@ export default function CarritoCheckoutPage() {
 
                 {step === 2 && (
                   <form
-                    id="octano-payment-form"
+                    id="etomin-payment-form"
                     onSubmit={handleCheckoutSubmit}
                     className="space-y-6"
                   >
@@ -646,7 +646,7 @@ export default function CarritoCheckoutPage() {
                           value={formData.cardNumber}
                           onChange={handleInputChange}
                           required
-                          maxLength={19}
+                          maxLength={16}
                           placeholder={t("form.cardNumberPlaceholder")}
                           className="sm:col-span-3"
                           mono
@@ -709,7 +709,7 @@ export default function CarritoCheckoutPage() {
 
                   <div className="flex items-center justify-center rounded-2xl border border-white/5 bg-white/[0.02] p-4">
                     <Image
-                      src="/octano.png"
+                      src="/etomin.png"
                       alt={t("images.securePaymentAlt")}
                       width={150}
                       height={20}
@@ -808,7 +808,7 @@ export default function CarritoCheckoutPage() {
                     <div className="space-y-3">
                       <Button
                         type="submit"
-                        form="octano-payment-form"
+                        form="etomin-payment-form"
                         disabled={isProcessing}
                         className={[
                           "w-full rounded-xl py-6 text-xs font-bold tracking-widest transition-all duration-300",

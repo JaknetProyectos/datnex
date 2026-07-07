@@ -37,7 +37,7 @@
     },
     "actions": {
       "proceedToPayment": "Avanzar al Pago",
-      "processing": "Validando Transacción por medio de Octano...",
+      "processing": "Validando Transacción por medio de Etomin...",
       "payAmount": "Pagar {amount}",
       "backToCart": "Modificar pedido / Modificar cupón"
     },
@@ -83,7 +83,7 @@
       "note": "Proceso gestionado bajo estándares de seguridad"
     },
     "images": {
-      "etominAlt": "Octano",
+      "etominAlt": "Etomin",
       "securePaymentAlt": "Pago seguro"
     }
   },
@@ -115,7 +115,7 @@
       "invalidAmount": "Es necesario indicar una cifra financiera válida."
     }
   },
-   "header": {
+  "header": {
     "logoAlt": "Datnex",
     "topbar": {
       "address": "Boulevard Periférico Manuel Ávila Camacho 235, CDMX",
@@ -143,7 +143,7 @@
       "contact": "Contáctanos"
     }
   },
-   "heroSlider": {
+  "heroSlider": {
     "slides": {
       "1": {
         "title": "Más Velocidad",
@@ -303,8 +303,21 @@
       }
     }
   },
-  "ProductCard" : {
+  "ProductCard": {
     "tax": "+ IVA",
-    "price" : "Precio"
+    "price": "Precio"
+  },
+  "store": {
+    "title": "Catálogo de",
+    "titleAccent": "Productos",
+    "description": "Explora soluciones tecnológicas de alto rendimiento. Filtrado inteligente integrado.",
+    "searchPlaceholder": "Buscar por nombre de producto...",
+    "allCategories": "Todas las Categorías",
+    "resultSingular": "PRODUCTO ENCONTRADO",
+    "resultPlural": "PRODUCTOS ENCONTRADOS",
+    "noResultsTitle": "Sin resultados",
+    "noResultsDescription": "No hay productos que coincidan con los criterios actuales de búsqueda o filtro. Prueba restableciendo los campos o intentando un término diferente.",
+    "loading": "Cargando catálogo...",
+    "error": "Ocurrió un error al cargar el catálogo de productos."
   }
 }
