@@ -60,7 +60,7 @@ export default function ProductPage() {
     <div className="min-h-screen bg-[#070A0F] text-white overflow-x-hidden">
       <Header />
 
-      <main className="pt-36 pb-16 relative">
+      <main className="pt-36 mt-24 pb-16 relative">
         {/* GLOW BACKGROUND */}
         <div className="pointer-events-none absolute top-0 right-0 w-[600px] h-[600px] bg-cyan-500/10 blur-[140px]" />
         <div className="pointer-events-none absolute bottom-0 left-0 w-[500px] h-[500px] bg-blue-500/10 blur-[140px]" />

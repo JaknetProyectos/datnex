@@ -378,7 +378,7 @@ export default function CarritoCheckoutPage() {
         </div>
       </div>
 
-      <main className="relative z-10 py-8 md:py-12">
+      <main className="relative z-10 mt-24 py-8 md:py-12">
         <div className="pointer-events-none absolute right-0 top-0 -z-10 h-[500px] w-[500px] rounded-full bg-cyan-400/10 blur-[140px]" />
         <div className="pointer-events-none absolute left-0 top-1/3 -z-10 h-[420px] w-[420px] rounded-full bg-blue-500/10 blur-[130px]" />
 

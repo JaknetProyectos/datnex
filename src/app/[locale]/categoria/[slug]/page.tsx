@@ -52,7 +52,7 @@ export default function CategoryPage() {
     <div className="min-h-screen bg-[#0b0f12] text-white overflow-x-hidden">
       <Header />
 
-      <main className="pt-44">
+      <main className="pt-44 mt-24">
         {/* HERO / CATEGORY HEADER */}
         <section className="relative border-b border-white/5">
           <div className="absolute inset-0 bg-gradient-to-r from-[#0b0f12] via-[#0b0f12] to-[#0b0f12]" />

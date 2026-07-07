@@ -68,7 +68,7 @@ export default function CustomProductPage() {
     <div className="min-h-screen overflow-x-hidden bg-[#070b12] text-slate-100 selection:bg-cyan-300 selection:text-[#070b12]">
       <Header />
 
-      <main className="relative pb-24 pt-44">
+      <main className="relative pb-24 mt-24 pt-44">
         {/* Background */}
         <div className="pointer-events-none absolute inset-0">
           <div className="absolute right-0 top-0 h-[620px] w-[620px] rounded-full bg-cyan-500/10 blur-[150px]" />

@@ -99,7 +99,7 @@ export default function ContactPage() {
     <div className="min-h-screen bg-[#070A0F] text-white overflow-x-hidden">
       <Header />
 
-      <main className="pt-28 pb-20 relative">
+      <main className="pt-28 mt-24 pb-20 relative">
         {/* BACKGROUND EFFECTS */}
         <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-cyan-500/10 blur-[140px] pointer-events-none" />
         <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-blue-500/10 blur-[140px] pointer-events-none" />
