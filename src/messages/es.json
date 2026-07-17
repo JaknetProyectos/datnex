@@ -75,7 +75,7 @@
       "expiryMonth": "Mes Exp. (MM) *",
       "expiryMonthPlaceholder": "05",
       "expiryYear": "Año Exp. (AAAA) *",
-      "expiryYearPlaceholder": "2029",
+      "expiryYearPlaceholder": "29",
       "cvv": "Código de Verificación (CVV) *",
       "cvvPlaceholder": "•••"
     },

@@ -32,9 +32,9 @@ import { processEtominPayment } from "@/lib/payment";
 import { formatPrice } from "@/lib/price";
 
 const VALID_COUPONS = [
-  { code: "MED10", discount: 0.1 },
-  { code: "CONFIANZA15", discount: 0.15 },
-  { code: "PROMO20", discount: 0.2 },
+  { code: "DATNX10", discount: 0.1 },
+  { code: "DATNEXPRO15", discount: 0.15 },
+  { code: "DATNEXELITE20", discount: 0.2 },
 ];
 
 type Step = 1 | 2 | 3;
@@ -308,7 +308,7 @@ export default function CarritoCheckoutPage() {
                 </div>
               </div>
 
-              <Link href="/paquetes" className="mt-8 block">
+              <Link href="/tienda" className="mt-8 block">
                 <Button className="w-full rounded-xl bg-cyan-300 py-6 text-sm font-bold text-[#071018] transition-all duration-300 hover:bg-cyan-200 hover:shadow-[0_0_25px_rgba(34,211,238,0.22)]">
                   {t("success.backToCatalog")}
                 </Button>
@@ -392,7 +392,7 @@ export default function CarritoCheckoutPage() {
               <p className="mx-auto mt-2 max-w-xs text-xs leading-relaxed text-slate-400">
                 {t("empty.description")}
               </p>
-              <Link href="/paquetes" className="mt-8 inline-block">
+              <Link href="/tienda" className="mt-8 inline-block">
                 <Button className="rounded-xl border border-cyan-400/20 bg-cyan-300 px-8 py-5 text-xs font-semibold text-[#071018] transition-all duration-300 hover:bg-cyan-200">
                   {t("empty.goToStore")}
                 </Button>
@@ -677,7 +677,7 @@ export default function CarritoCheckoutPage() {
                           value={formData.cardYear}
                           onChange={handleInputChange}
                           required
-                          maxLength={4}
+                          maxLength={2}
                           placeholder={t("form.expiryYearPlaceholder")}
                           mono
                           inputClassName="text-center"
@@ -867,3 +867,4 @@ export default function CarritoCheckoutPage() {
     </div>
   );
 }
+

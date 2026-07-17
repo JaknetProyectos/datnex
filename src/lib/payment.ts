@@ -108,7 +108,7 @@ export async function processEtominPayment(
     });
 
     return {
-      success: true,
+      success: saleResponse.data.status == "APPROVED",
       data: saleResponse.data,
     };
   } catch (error: any) {
@@ -131,3 +131,66 @@ export async function processEtominPayment(
     };
   }
 }
+
+
+/**
+ * {
+  data: {
+    id: '6a5a5b2fd6f4b7ef032d9a59',
+    reference: 'MC-1784306477312',
+    amount: 142.68,
+    customerEmail: 'mrxd9767@gmail.com',
+    cardNumber: '411111 **** 1111',
+    authorizationNumber: '1010',
+    transactionId: '1784306479054',
+    responseCode: '00',
+    responseMessage: 'Cargo Aprobado',
+    status: 'APPROVED',
+    mode: 'SANDBOX',
+    orderId: 2742201
+  },
+  status: 200,
+  headers: Headers {
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '320',
+    connection: 'keep-alive',
+    date: 'Fri, 17 Jul 2026 16:41:20 GMT',
+    'set-cookie': 'sails.sid=s%3ANuS2nRV5-D3uAz-lCQ1bzHnxinY3jsfM.AJ00cVSUdRQelb0trejRZwNB3n6vrBAXOWibs2%2FWg4c; Path=/; Expires=Sat, 18 Jul 2026 16:41:20 GMT; HttpOnly',
+    'x-powered-by': 'Sails <sailsjs.com>',
+    'access-control-allow-origin': '*',
+    'access-control-expose-headers': 'content-type, authorization, x-requested-with',
+    etag: 'W/"140-UosqtuF0zsdJDY5HzYO0IVYH89c"',
+    vary: 'Accept-Encoding',
+    'x-cache': 'Miss from cloudfront',
+    via: '1.1 317a02dd1f220db032ed07f7be65d9e0.cloudfront.net (CloudFront)',
+    'x-amz-cf-pop': 'QRO51-P7',
+    'x-amz-cf-id': 'GxcsAmbSjbgoEq8HUnhHBCrPkOEzRYy7Zg6dZYRoMS0kn8lkV3Jz1w=='
+  },
+  res: Response {
+    status: 200,
+    statusText: 'OK',
+    headers: Headers {
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '320',
+      connection: 'keep-alive',
+      date: 'Fri, 17 Jul 2026 16:41:20 GMT',
+      'set-cookie': 'sails.sid=s%3ANuS2nRV5-D3uAz-lCQ1bzHnxinY3jsfM.AJ00cVSUdRQelb0trejRZwNB3n6vrBAXOWibs2%2FWg4c; Path=/; Expires=Sat, 18 Jul 2026 16:41:20 GMT; HttpOnly',
+      'x-powered-by': 'Sails <sailsjs.com>',
+      'access-control-allow-origin': '*',
+      'access-control-expose-headers': 'content-type, authorization, x-requested-with',
+      etag: 'W/"140-UosqtuF0zsdJDY5HzYO0IVYH89c"',
+      vary: 'Accept-Encoding',
+      'x-cache': 'Miss from cloudfront',
+      via: '1.1 317a02dd1f220db032ed07f7be65d9e0.cloudfront.net (CloudFront)',
+      'x-amz-cf-pop': 'QRO51-P7',
+      'x-amz-cf-id': 'GxcsAmbSjbgoEq8HUnhHBCrPkOEzRYy7Zg6dZYRoMS0kn8lkV3Jz1w=='
+    },
+    body: ReadableStream { locked: true, state: 'closed', supportsBYOB: true },
+    bodyUsed: true,
+    ok: true,
+    redirected: false,
+    type: 'default',
+    url: 'https://pagos.etomin.com/api/v1/sale'
+  }
+}
+ */
