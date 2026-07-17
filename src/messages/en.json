@@ -74,7 +74,7 @@
       "cardHolderPlaceholder": "Exactly as shown on the card",
       "expiryMonth": "Exp. Month (MM) *",
       "expiryMonthPlaceholder": "05",
-      "expiryYear": "Exp. Year (YYYY) *",
+      "expiryYear": "Exp. Year (YY) *",
       "expiryYearPlaceholder": "29",
       "cvv": "Security Code (CVV) *",
       "cvvPlaceholder": "•••"

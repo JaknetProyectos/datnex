@@ -7,6 +7,7 @@ import type { Product } from "@/types";
 import { cn } from "@/lib/utils";
 import { useLocale, useTranslations } from "next-intl";
 import { formatPrice } from "@/lib/price";
+import { useCart } from "@/context/CartContext";
 
 interface ProductCardProps {
   product: Product;
@@ -20,6 +21,7 @@ export function ProductCard({
 }: ProductCardProps) {
   const locale = useLocale()
   const t = useTranslations("ProductCard")
+  const { addItem } = useCart()
 
 
   return (
@@ -93,7 +95,7 @@ export function ProductCard({
             onClick={(e) => {
               e.preventDefault();
               e.stopPropagation();
-              onAddToCart?.(product);
+              addItem(product)
             }}
             className="
               relative z-30
